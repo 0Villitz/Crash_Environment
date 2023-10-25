@@ -65,7 +65,7 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Content/Source_Files/Cache_Gitignote
+Content/Source_Files/Cache_Gitignore
 
 #Houdini source file auto-backups
-Content/Source_Files/Houdini/Impact_Simbackup
+#Content/Source_Files/Houdini/Impact_Simbackup
