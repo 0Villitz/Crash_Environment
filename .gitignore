@@ -69,3 +69,5 @@ Content/Source_Files/Cache_Gitignore
 
 #Houdini source file auto-backups
 #Content/Source_Files/Houdini/Impact_Simbackup
+Content/Source_Files/Houdini_Work_Files/Terrain_Generation/backup
+Content/Source_Files/Houdini_Work_Files/Impact_Sim/backup
