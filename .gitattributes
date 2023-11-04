@@ -16,7 +16,8 @@
 # Anything in `/RawContent` dir.
 /RawContent/**/* filter=lfs diff=lfs merge=lfs -text
 
-# Other large work files
+# Other large source/work files
 *.hiplc filter=lfs diff=lfs merge=lfs -text
 *.hip filter=lfs diff=lfs merge=lfs -text
 *.blend filter=lfs diff=lfs merge=lfs -text
+*.bgeo.sc filter=lfs diff=lfs merge=lfs -text
