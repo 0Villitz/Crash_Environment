@@ -67,10 +67,13 @@ Intermediate/*
 DerivedDataCache/*
 Content/Source_Files/Cache_Gitignore
 
-#Houdini source file auto-backups
+#Houdini auto backups
 Content/Source_Files/Houdini/**/cache/
 Content/Source_Files/Houdini/**/backup/
 Content/Source_Files/Houdini/**/geo/
 Content/Source_Files/Houdini/**/render/
 Content/Source_Files/Substance_Designer/**/.autosave/
 Content/VDB_Gitignored/*
+
+#Blender auto backups
+*.blend1
